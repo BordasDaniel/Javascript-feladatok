@@ -1,4 +1,4 @@
-// Írj egy Python programot, amely bekér két pozitív egész számot a felhasználótól és kiírja a képernyőre azokat a páros számokat, amelyek  a  két  adott  érték  közötti  zárt  intervallumban találhatóak!
+// Írj egy programot, amely bekér két pozitív egész számot a felhasználótól és kiírja a képernyőre azokat a páros számokat, amelyek  a  két  adott  érték  közötti  zárt  intervallumban találhatóak!
 
 
 function input(){
